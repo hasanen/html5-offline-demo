@@ -1,0 +1,9 @@
+.counter{
+  font-size: 40px;
+  display: block;
+}
+a.add {
+  background-color:gray;
+  text-decoration: none;
+  padding: 10px;
+}
